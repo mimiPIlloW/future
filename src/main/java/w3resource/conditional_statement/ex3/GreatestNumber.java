@@ -31,8 +31,11 @@ public class GreatestNumber {
                 }
             }
         }
+
+        int e = 1;
         for (int i : arr) {
-            System.out.println(i);
+            System.out.println("The " + e + "st number: " + i);
+            e++;
         }
     }
 }
