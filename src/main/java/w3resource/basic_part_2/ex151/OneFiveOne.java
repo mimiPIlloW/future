@@ -1,4 +1,4 @@
-package w3resource.basic_part_2.id151;
+package w3resource.basic_part_2.ex151;
 
 public class OneFiveOne {
     public static void main(String[] args) {
