@@ -17,7 +17,6 @@ public class Main {
         index[2] = 0;
         index[3] = 2;
 
-
         while (y < 4) {
             ref = index[y];
             System.out.println("Острова = " + island[ref]);
