@@ -1,4 +1,4 @@
-package acmp.id108;
+package acmp.id0108;
 
 import java.util.Scanner;
 
